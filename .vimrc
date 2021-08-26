@@ -31,6 +31,7 @@ call plug#begin(expand('~/.vim/plugged'))
 "*****************************************************************************
 "" Plug install packages
 "*****************************************************************************
+Plug 'dracula/vim', { 'as': 'dracula' }
 Plug 'pangloss/vim-javascript'
 Plug 'mxw/vim-jsx'
 Plug 'scrooloose/nerdtree'
@@ -81,6 +82,8 @@ Plug 'tomasr/molokai'
 Plug '~/colors/thaumaturge'
 Plug 'ajmwagar/vim-deus'
 Plug 'bluz71/vim-moonfly-colors'
+Plug 'shapeoflambda/dark-purple.vim'
+Plug 'challenger-deep-theme/vim', { 'as': 'challenger-deep' }
 
 "*****************************************************************************
 "" Custom bundles
@@ -211,7 +214,7 @@ else
   let g:indentLine_char = '┆'
   let g:indentLine_faster = 1
 
-  
+
   if $COLORTERM == 'gnome-terminal'
     set term=gnome-256color
   else
@@ -219,7 +222,7 @@ else
       set term=xterm-256color
     endif
   endif
-  
+
 endif
 
 
@@ -599,14 +602,14 @@ endif
 " autocmd vimenter * NERDTree
 let NERDTreeShowHidden=1
 
-" Colors
-" colorscheme thaumaturge
-colorscheme chito
-" colorscheme Iosvkem
-" colorscheme deus
-" colorscheme gryffin
-" colorscheme brogrammer
 
+"syntax enable
+"colorscheme dark_purple
+" colorscheme spacecamp_lite
+
+let g:dracula_colorterm = 0
+let g:dracula_italic = 0
+colorscheme dracula
 
 " Ag/Ack config
 let g:ackprg = 'ag --nogroup --nocolor --column'
@@ -614,8 +617,9 @@ let g:ackprg = 'ag --nogroup --nocolor --column'
 " Formatting
 set clipboard=unnamed
 
+nnoremap <C-]> <C-]>
+
 " Enable mouse
 ":set mouse=a
 "
 
-set re=1
