@@ -102,8 +102,6 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-export GITHUB_API_TOKEN=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
-
 alias gs="git status"
 alias ga="git add ."
 alias gc="git checkout"
