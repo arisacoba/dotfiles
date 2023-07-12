@@ -118,7 +118,6 @@ alias aris="cd ~/workspace/arisacoba.com"
 alias changelog="cd ~/workspace/changelog.gallery"
 alias brewup="echo 'Updating and upgrading homebrew...' && brew update && brew upgrade"
 
-alias runwub="nvm use && npm-vpn.sh staging && awssume --profile npmstage"
 
 source "/Users/arisacoba/.oh-my-zsh/custom/themes/spaceship.zsh-theme"
 
