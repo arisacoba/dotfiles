@@ -113,13 +113,7 @@ alias dev="cd ~/workspace"
 alias zshrc="vim ~/.zshrc"
 alias vimrc="vim ~/.vimrc"
 
-alias design="cd ~/workspace/gh-product-design"
-alias aris="cd ~/workspace/arisacoba.com"
-alias brewup="echo 'Updating and upgrading homebrew...' && brew update && brew upgrade"
-
-
 source "/Users/arisacoba/.oh-my-zsh/custom/themes/spaceship.zsh-theme"
-
 
 
 export NVM_DIR="$HOME/.nvm"
