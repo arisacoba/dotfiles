@@ -113,15 +113,16 @@ alias dev="cd ~/workspace"
 alias zshrc="vim ~/.zshrc"
 alias vimrc="vim ~/.vimrc"
 
-source "/Users/arisacoba/.oh-my-zsh/custom/themes/spaceship.zsh-theme"
+# (Removed for VSCode)
+# source "/Users/arisacoba/.oh-my-zsh/custom/themes/spaceship.zsh-theme"
 
 
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
 [ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
 
-# For zsh highlighting
-source /Users/arisacoba/workspace/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
+# For zsh highlighting (Removed for VSCode)
+# source /Users/arisacoba/workspace/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
 # Fig post block. Keep at the bottom of this file.
 [[ -f "$HOME/.fig/shell/zshrc.post.zsh" ]] && builtin source "$HOME/.fig/shell/zshrc.post.zsh"
