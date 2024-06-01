@@ -1,5 +1,3 @@
-# Fig pre block. Keep at the top of this file.
-[[ -f "$HOME/.fig/shell/zshrc.pre.zsh" ]] && builtin source "$HOME/.fig/shell/zshrc.pre.zsh"
 # If you come from bash you might have to change your $PATH.
 # export PATH=$HOME/bin:/usr/local/bin:$PATH
 
@@ -10,7 +8,7 @@ export ZSH="$HOME/.oh-my-zsh"
 # load a random theme each time oh-my-zsh is loaded, in which case,
 # to know which specific one was loaded, run: echo $RANDOM_THEME
 # See https://github.com/ohmyzsh/ohmyzsh/wiki/Themes
-ZSH_THEME="robbyrussell"
+ZSH_THEME="spaceship"
 
 # Set list of themes to pick from when loading at random
 # Setting this variable when ZSH_THEME=random will cause zsh to load
@@ -114,9 +112,10 @@ alias dev="cd ~/workspace"
 alias zshrc="vim ~/.zshrc"
 alias vimrc="vim ~/.vimrc"
 
+alias brewup="echo 'Updating and upgrading homebrew...' && brew update && brew upgrade"
+
 # (Removed for VSCode)
 # source "/Users/arisacoba/.oh-my-zsh/custom/themes/spaceship.zsh-theme"
-
 
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
@@ -124,6 +123,3 @@ export NVM_DIR="$HOME/.nvm"
 
 # For zsh highlighting (Removed for VSCode)
 # source /Users/arisacoba/workspace/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
-
-# Fig post block. Keep at the bottom of this file.
-[[ -f "$HOME/.fig/shell/zshrc.post.zsh" ]] && builtin source "$HOME/.fig/shell/zshrc.post.zsh"
