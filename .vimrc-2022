@@ -623,3 +623,10 @@ nnoremap <C-]> <C-]>
 ":set mouse=a
 "
 
+set statusline+=%F
+
+" Disable quote concealing in JSON files
+let g:vim_json_conceal=0
+
+" Enable all filetypes for copilot
+let g:copilot_filetypes = {'*': v:true}
