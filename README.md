@@ -8,6 +8,13 @@ List of available Raycast [script commands](https://github.com/raycast/script-co
 
 ## [VIA](https://usevia.app/)
 
-![Screenshot of VIA configuration](https://github.com/arisacoba/dotfiles/assets/8143661/a088b510-f8a8-45df-87c0-650dffdcb738)
+![via@2x](https://github.com/user-attachments/assets/b570006d-14b0-4eff-8c8b-4c8d766136b9)
 
-**M0**: Screenshot • **M1**: Open camera • **F13**: Toggle mute/unmute mic
+| Key | Action |
+| -- | -- |
+| M0 | Screenshot |
+| M1 | Open camera (Using [Hand Mirror](https://handmirror.app/)) |
+| F3 | Mission control |
+| F4 | Application windows |
+| F13 | Toggle mute/unmute mic (Using [MuteKey](https://apps.apple.com/us/app/mutekey/id1509590766?mt=12)) |
+  
