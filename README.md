@@ -10,7 +10,7 @@ List of available Raycast [script commands](https://github.com/raycast/script-co
 
 ### ⌨️ 75% keyboard ([Mode Sonnet](https://modedesigns.com/products/sonnet))
 
-![via@2x](https://github.com/user-attachments/assets/b570006d-14b0-4eff-8c8b-4c8d766136b9)
+![via-75@2x](https://github.com/user-attachments/assets/f28245d7-aa63-45d4-a48a-9bad64bd9909)
 
 | Key | Action |
 | -- | -- |
