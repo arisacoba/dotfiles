@@ -112,6 +112,24 @@ alias dev="cd ~/workspace"
 alias zshrc="vim ~/.zshrc"
 alias vimrc="vim ~/.vimrc"
 
+# Variable for opening git remote and its PRs
+open_git_url() {
+    local repo_url
+    repo_url=$(git remote get-url origin 2>/dev/null | sed "s/.git\$//")
+
+    if [[ -z "$repo_url" ]]; then
+        echo "No remote found"
+        return 1
+    fi
+
+    open "$repo_url/$1"
+}
+
+alias openrepo='open_git_url ""'
+alias openpulls='open_git_url "pulls"'
+alias openprs='open_git_url "pulls"'
+# End git remote aliases
+
 alias brewup="echo 'Updating and upgrading homebrew...' && brew update && brew upgrade"
 
 # (Removed for VSCode)
