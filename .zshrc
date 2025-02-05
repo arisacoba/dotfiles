@@ -107,6 +107,7 @@ alias gp="git pull"
 alias gpmain="git pull origin main"
 alias gpmaster="git pull origin master"
 alias glo="git log --oneline"
+alias rbase="git pull --rebase origin main"
 alias dev="cd ~/workspace"
 
 alias zshrc="vim ~/.zshrc"
