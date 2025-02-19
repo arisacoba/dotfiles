@@ -22,5 +22,4 @@ List of available Raycast [script commands](https://github.com/raycast/script-co
   
 ### 🎨 [Figma Creator Micro](https://worklouder.cc/figma/)
 
-![micro-pad@2x](https://github.com/user-attachments/assets/090bf8b4-5de1-43c1-a37f-9e5eadceaf92)
-
+![micro@2x](https://github.com/user-attachments/assets/6f00f1b7-1133-4b33-9001-97c2fc3507f0)
