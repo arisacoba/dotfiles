@@ -21,21 +21,21 @@
   ],
   "layers": [
     [
-      "G(KC_T)",
-      "KC_V",
-      "KC_P",
+      "RGB_M_P",
+      "C(G(KC_Q))",
+      "C(G(KC_C))",
       "KC_MUTE",
       "C(KC_A)",
       "C(KC_S)",
-      "KC_O",
+      "S(KC_SPC)",
       "LSG(KC_H)",
       "A(KC_A)",
       "A(KC_H)",
       "A(KC_V)",
       "A(KC_D)",
       "RGB_TOG",
-      "MACRO(0)",
-      "KC_F5",
+      "C(G(KC_C))",
+      "S(A(G(KC_F)))",
       "TO(1)"
     ],
     [
@@ -95,7 +95,7 @@
   ],
   "encoders": [
     [
-      ["KC_MINS", "KC_EQL"],
+      ["RGB_RMOD", "RGB_MOD"],
       ["KC_TRNS", "KC_TRNS"],
       ["KC_NO", "KC_NO"],
       ["KC_NO", "KC_NO"]
