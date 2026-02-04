@@ -23,3 +23,21 @@ List of available Raycast [script commands](https://github.com/raycast/script-co
 ### 🎨 [Figma Creator Micro](https://worklouder.cc/figma/)
 
 ![micro](https://github.com/user-attachments/assets/bc989828-6e80-4254-88ff-6b26d2f6259d)
+
+### 🪃 [Neo Ergo](https://www.qwertykeys.com/products/neo-ergo)
+Notable keys are annotated with numbers
+
+<img width="2246" height="1167" alt="CleanShot 2026-02-04 at 10  45 30@2x" src="https://github.com/user-attachments/assets/8332958f-63b4-4a89-b31a-4dd9a9845b5a" />
+<img width="2242" height="1154" alt="CleanShot 2026-02-04 at 10  46 25@2x" src="https://github.com/user-attachments/assets/f43165ac-94fb-4a56-84db-300e117a310e" />
+
+<br><br>
+<details>
+<summary>Keys not working as intended?</summary>
+
+You might be using the Windows or Mac mode.
+
+<img width="1464" height="542" alt="CleanShot 2026-02-04 at 10  51 01@2x" src="https://github.com/user-attachments/assets/1b3baa71-09b2-40c4-8068-5dc21194fb6e" />
+
+Double check if your Ergo is using the Mac or Windows version. I tried using Fn + Win but it didn't work. Since I'm using a Mac and it is using the Layers 2 and 3, I just made sure to check/configure those layers. Sucks but it's a way around.
+
+</details>
