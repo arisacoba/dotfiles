@@ -28,7 +28,7 @@ List of available Raycast [script commands](https://github.com/raycast/script-co
 Notable keys are annotated with numbers
 
 <img width="2246" height="1167" alt="CleanShot 2026-02-04 at 10  45 30@2x" src="https://github.com/user-attachments/assets/8332958f-63b4-4a89-b31a-4dd9a9845b5a" />
-<img width="2242" height="1154" alt="CleanShot 2026-02-04 at 10  46 25@2x" src="https://github.com/user-attachments/assets/f43165ac-94fb-4a56-84db-300e117a310e" />
+<img width="2242" height="1154" alt="CleanShot 2026-02-04 at 10  46 25@2x" src="https://github.com/user-attachments/assets/fc6d87f0-8efb-43b8-8eba-9f6245d4c5da" />
 
 <br><br>
 <details>
