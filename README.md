@@ -27,10 +27,10 @@ List of available Raycast [script commands](https://github.com/raycast/script-co
 ### 🪃 [Neo Ergo](https://www.qwertykeys.com/products/neo-ergo)
 Notable keys are annotated with numbers
 
-<img width="2246" height="1167" alt="CleanShot 2026-02-04 at 10  45 30@2x" src="https://github.com/user-attachments/assets/9b714bc4-8c38-4d83-991b-1ede580a470d" />
-<img width="2242" height="1154" alt="CleanShot 2026-02-04 at 10  46 25@2x" src="https://github.com/user-attachments/assets/ee839f7e-862d-4d28-ad41-8c84c6a02dd3" />
+<img width="2246" height="1167" alt="CleanShot 2026-02-04 at 10  45 30@2x" src="https://github.com/user-attachments/assets/8332958f-63b4-4a89-b31a-4dd9a9845b5a" />
+<img width="2242" height="1154" alt="CleanShot 2026-02-04 at 10  46 25@2x" src="https://github.com/user-attachments/assets/f43165ac-94fb-4a56-84db-300e117a310e" />
 
-<br>
+<br><br>
 <details>
 <summary>Keys not working as intended?</summary>
 
