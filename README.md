@@ -23,10 +23,16 @@ List of available Raycast [script commands](https://github.com/raycast/script-co
 ### 🎨 Worklouder Figma Creator Micro
 Discontinued. [New link](https://worklouder.cc/creator-micro-2)
 
-![micro](https://github.com/user-attachments/assets/bc989828-6e80-4254-88ff-6b26d2f6259d)
-![worklouder-micro](https://github.com/user-attachments/assets/784ffe02-5098-4a27-a575-d2aeaa0c0e8b)
+<img width="1982" height="1486" alt="worklouder-micro-annotate" src="https://github.com/user-attachments/assets/002130ad-714e-4a60-ba67-71ae54025fe7" />
 
-<img width="3559" height="2563" alt="worklouder-micro" src="" />
+<details>
+<summary>No annotation</summary>
+
+<img width="1982" height="1486" alt="worklouder-micro-no-annotate" src="https://github.com/user-attachments/assets/5b4e07e0-f5b5-4f34-9472-5ffc65548f4c" />
+
+</details>
+
+<img width="3626" height="2720" alt="worklouder-micro" src="https://github.com/user-attachments/assets/9fd8185a-7c21-448c-af42-4c77b17582ee" />
 
 
 ### 🪃 [Neo Ergo](https://www.qwertykeys.com/products/neo-ergo)
