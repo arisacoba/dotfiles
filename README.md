@@ -20,9 +20,14 @@ List of available Raycast [script commands](https://github.com/raycast/script-co
 | F4 | Application windows |
 | F13 | Toggle mute/unmute mic (Using [MuteKey](https://apps.apple.com/us/app/mutekey/id1509590766?mt=12)) |
   
-### 🎨 [Figma Creator Micro](https://worklouder.cc/figma/)
+### 🎨 Worklouder Figma Creator Micro
+Discontinued. [New link](https://worklouder.cc/creator-micro-2)
 
 ![micro](https://github.com/user-attachments/assets/bc989828-6e80-4254-88ff-6b26d2f6259d)
+![worklouder-micro](https://github.com/user-attachments/assets/784ffe02-5098-4a27-a575-d2aeaa0c0e8b)
+
+<img width="3559" height="2563" alt="worklouder-micro" src="" />
+
 
 ### 🪃 [Neo Ergo](https://www.qwertykeys.com/products/neo-ergo)
 Notable keys are annotated with numbers
