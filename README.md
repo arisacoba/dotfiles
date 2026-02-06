@@ -32,7 +32,7 @@ Discontinued. [New link](https://worklouder.cc/creator-micro-2)
 
 </details>
 
-<img width="3559" height="2563" alt="worklouder-micro" src="" />
+<img width="3626" height="2720" alt="worklouder-micro" src="https://github.com/user-attachments/assets/9fd8185a-7c21-448c-af42-4c77b17582ee" />
 
 
 ### 🪃 [Neo Ergo](https://www.qwertykeys.com/products/neo-ergo)
