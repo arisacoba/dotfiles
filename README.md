@@ -36,6 +36,7 @@ Discontinued. [New link](https://worklouder.cc/creator-micro-2)
 
 ### 🪃 Boomerang [^1]
 Set up in [Vial](https://vial.rocks/)
+
 <img width="1910" height="776" alt="boomerang-layer-0" src="https://github.com/user-attachments/assets/c614517f-2352-4889-b1fb-afe0b80d563e" />
 
 <img width="1912" height="780" alt="boomerang-layer-1" src="https://github.com/user-attachments/assets/12992140-d9a3-4160-b90f-c5cedc31017c" />
