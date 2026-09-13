@@ -6,7 +6,7 @@ Check this to set up Vim: [Setting up Vim](https://github.com/arisacoba/setting-
 ## Raycast scripts
 List of available Raycast [script commands](https://github.com/raycast/script-commands)
 
-## [VIA](https://usevia.app/)
+## Keyboard mappings
 
 ### ⌨️ 75% keyboard ([Mode Sonnet](https://modedesigns.com/products/sonnet))
 
