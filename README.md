@@ -34,9 +34,12 @@ Discontinued. [New link](https://worklouder.cc/creator-micro-2)
 
 <img width="3626" height="2720" alt="worklouder-micro" src="https://github.com/user-attachments/assets/9fd8185a-7c21-448c-af42-4c77b17582ee" />
 
+### 🪃 Boomerang [^1]
+<img width="1910" height="776" alt="boomerang-layer-0" src="https://github.com/user-attachments/assets/c614517f-2352-4889-b1fb-afe0b80d563e" />
 
-### 🪃 [Neo Ergo](https://www.qwertykeys.com/products/neo-ergo)
-Notable keys are annotated with numbers
+<img width="1912" height="780" alt="boomerang-layer-1" src="https://github.com/user-attachments/assets/12992140-d9a3-4160-b90f-c5cedc31017c" />
+
+### 🪃 [Neo Ergo](https://www.qwertykeys.com/products/neo-ergo) [^1]
 
 <img width="2246" height="1167" alt="CleanShot 2026-02-04 at 10  45 30@2x" src="https://github.com/user-attachments/assets/486338ca-a894-4565-8ae0-284fb5c59045" />
 <img width="2242" height="1154" alt="CleanShot 2026-02-04 at 10  46 25@2x" src="https://github.com/user-attachments/assets/fc6d87f0-8efb-43b8-8eba-9f6245d4c5da" />
@@ -52,3 +55,5 @@ You might be using the Windows or Mac mode.
 Double check if your Ergo is using the Mac or Windows version. I tried using Fn + Win but it didn't work. Since I'm using a Mac and it is using the Layers 2 and 3, I just made sure to check/configure those layers. Sucks but it's a way around.
 
 </details>
+
+[^1]: Notable keys are annotated with numbers
