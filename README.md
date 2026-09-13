@@ -35,11 +35,13 @@ Discontinued. [New link](https://worklouder.cc/creator-micro-2)
 <img width="3626" height="2720" alt="worklouder-micro" src="https://github.com/user-attachments/assets/9fd8185a-7c21-448c-af42-4c77b17582ee" />
 
 ### 🪃 Boomerang [^1]
+Set up in [Vial](https://vial.rocks/)
 <img width="1910" height="776" alt="boomerang-layer-0" src="https://github.com/user-attachments/assets/c614517f-2352-4889-b1fb-afe0b80d563e" />
 
 <img width="1912" height="780" alt="boomerang-layer-1" src="https://github.com/user-attachments/assets/12992140-d9a3-4160-b90f-c5cedc31017c" />
 
 ### 🪃 [Neo Ergo](https://www.qwertykeys.com/products/neo-ergo) [^1]
+Set up in [Via](https://usevia.app/)
 
 <img width="2246" height="1167" alt="CleanShot 2026-02-04 at 10  45 30@2x" src="https://github.com/user-attachments/assets/486338ca-a894-4565-8ae0-284fb5c59045" />
 <img width="2242" height="1154" alt="CleanShot 2026-02-04 at 10  46 25@2x" src="https://github.com/user-attachments/assets/fc6d87f0-8efb-43b8-8eba-9f6245d4c5da" />
